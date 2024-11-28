@@ -1,0 +1,20 @@
+Project Title: SUBMIP: Smart Human Body Health Prediction Application System Based on Medical Image Processing
+
+
+
+Requirements
+
+ Hardwares
+• MAX30102 
+• LM35 
+• NodeMCU
+• ESP32
+• Voltage Regulator
+
+Softwares 
+Arduino IDE 1.8.19
+VS Studio
+Google Colab
+
+
+Developed By: Raja Vavekanand 
